@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![Zorkad Logo](![image](https://github.com/user-attachments/assets/b24920e5-8ee6-4e8b-8809-dc79f6f9b3b8)
-)
+![Zorkad Logo](https://i.ibb.co/LxjPqvj/zorkad-icon.png)
 
 **Revolutionizing Global Finance with Cutting-Edge Technology**
 
